@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nationality">
+        <item>Korea</item>
+        <item>America</item>
+        <item>China</item>
+        <item>Japan</item>
+        <item>Austria</item>
+        <item>Rusia</item>
+        <item>Brazil</item>
+        <item>Czech Republic</item>
+        <item>Norway</item>
+        <item>Canada</item>
+    </string-array>
+
+    <string-array name="major">
+        <item>가정교육과</item>
+        <item>국어교육과</item>
+        <item>기술교육과</item>
+        <item>독어교육과</item>
+        <item>컴퓨터공학과</item>
+        <item>전기공학과</item>
+        <item>기계공학과</item>
+
+        <item>가정교육과(대학원)</item>
+        <item>국어교육과(대학원)</item>
+        <item>기술교육과(대학원)</item>
+        <item>독어교육과(대학원)</item>
+        <item>컴퓨터공학과(대학원)</item>
+        <item>전기공학과(대학원)</item>
+        <item>기계공학과(대학원)</item>
+    </string-array>
+
+    <string-array name="year">
+        <item>2019년도</item>
+        <item>2020년도</item>
+        <item>2021년도</item>
+        <item>2022년도</item>
+        <item>2023년도</item>
+        <item>2024년도</item>
+    </string-array>
+
+    <string-array name="term">
+        <item>1학기</item>
+        <item>여름학기</item>
+        <item>2학기</item>
+        <item>겨울학기</item>
+    </string-array>
+
+    <string-array name="graduateAres">
+        <item>일반대학원</item>
+    </string-array>
+
+    <string-array name="universityArea">
+        <item>교양및기타</item>
+        <item>전공</item>
+    </string-array>
+
+    <string-array name="graduateMajor">
+        <item>가정교육과</item>
+        <item>국어교육과</item>
+        <item>기술교육과</item>
+        <item>독어교육과</item>
+        <item>컴퓨터공학과</item>
+        <item>전기공학과</item>
+        <item>기계공학과</item>
+    </string-array>
+
+    <string-array name="universityRefinementMajor">
+        <item>군사학</item>
+        <item>교직이론</item>
+        <item>교직소양</item>
+        <item>청람비전</item>
+        <item>청람비전(2)</item>
+        <item>청람비전(3)</item>
+        <item>청람비전(4)</item>
+    </string-array>
+
+    <string-array name="universityMajor">
+        <item>가정교육과</item>
+        <item>국어교육과</item>
+        <item>기술교육과</item>
+        <item>독어교육과</item>
+        <item>컴퓨터공학과</item>
+        <item>전기공학과</item>
+        <item>기계공학과</item>
+    </string-array>
+
+
+
+</resources>
